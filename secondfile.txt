@@ -1,9 +1,0 @@
-THIS IS THE SECOND FILE
-
-THIS IS ONE OF THE SECOND FILES.
-
-This is  a second commit
-
-this is the latest iteration
-
-This is a new insertion.
